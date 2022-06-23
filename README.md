@@ -1,5 +1,7 @@
 # ZK Basics Cheatsheet
 
+![ZKexchange](featured.png)
+
 After [Monero Addresses Cheatsheet](https://github.com/baro77/MoneroAddressesCS), [Rings Cheatsheet](https://github.com/baro77/RingsCS) and [Monero RingCT Cheatsheet](https://github.com/baro77/RctCS) the intention was to write the next one about Bulletproof (the "_to be continued..._" of the third infographic).
 However very soon it has been clear that **Zero Knowledge Proofs theory** is mandatory to have a comprehensive understanding about how BP works (apart from being a very interesting field by itself, laying foundations for many cool techs): so here it is the [present poster](https://github.com/baro77/ZKbasicsCS/blob/main/ZKbasicsCheatsheet20220621.pdf).
 
