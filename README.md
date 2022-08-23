@@ -1,5 +1,9 @@
 # ZK Basics Cheatsheet
 
+```
+This cheatsheet is part of "The Salmon Series", check it out @ https://www.bybaro.it/tss
+```
+
 ![ZKexchange](featured.png)
 
 After [Monero Addresses Cheatsheet](https://github.com/baro77/MoneroAddressesCS), [Rings Cheatsheet](https://github.com/baro77/RingsCS) and [Monero RingCT Cheatsheet](https://github.com/baro77/RctCS) the intention was to write the next one about Bulletproof (the "_to be continued..._" of the third infographic).
