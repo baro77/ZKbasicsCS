@@ -13,7 +13,7 @@ I have tried to not miss the basic core concepts despite the simplified approach
 
 The cheatsheet is also published on [Library section of Monero's official site](https://www.getmonero.org/library/) since August 23rd, 2022 and listed on [MatterLabs's "Awesome zero knowledge proofs (zkp)" GitHub repo](https://github.com/matter-labs/awesome-zero-knowledge-proofs) since September 12th, 2022.
 
-Since March 24th, 2023 [the cheatsheet source file (Word's .docx format)](https://github.com/baro77/ZKbasicsCS/blob/main/ZKbasicsCheatsheet20220621.docx) is also available: if you want to translate it ([Russian](https://github.com/baro77/ZKbasicsCS/tree/main/translations/ru)) already available by [v1docq47](https://github.com/v1docq47)), or use it in any derivative work please [contact me](https://github.com/baro77).
+Since March 24th, 2023 [the cheatsheet source file (Word's .docx format)](https://github.com/baro77/ZKbasicsCS/blob/main/ZKbasicsCheatsheet20220621.docx) is also available: if you want to translate it ([Russian](https://github.com/baro77/ZKbasicsCS/tree/main/translations/ru) already available by [v1docq47](https://github.com/v1docq47)), or use it in any derivative work please [contact me](https://github.com/baro77).
 
 ### Version History
 
